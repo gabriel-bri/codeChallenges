@@ -7,9 +7,6 @@ Descrição do formato da função solução
 
 ### Exemplos
 
-
-
-
 <pre>
 Exemplo 1:
 Entrada: a = 5, b = 3
