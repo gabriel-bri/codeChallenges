@@ -1,7 +1,7 @@
 # Calculadora - Soma (Ambientação plataforma)
 O professor da sua sala pede para você fazer um código que retorne a soma de dois números.
 
-Descrição do formato da função solução
+### Descrição do formato da função solução
 1) Recebe como dois números inteiros a e b.
 2) Retorne o valor da soma de a e b.
 
