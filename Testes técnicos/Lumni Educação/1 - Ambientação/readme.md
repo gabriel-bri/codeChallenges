@@ -8,9 +8,10 @@ Descrição do formato da função solução
 ### Exemplos
 
 
-Exemplo 1:
+
 
 <pre>
+Exemplo 1:
 Entrada: a = 5, b = 3
 Saída: 8
 Explicação: a + b = 5 + 3 = 8.
