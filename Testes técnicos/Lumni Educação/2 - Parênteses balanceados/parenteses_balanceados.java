@@ -27,6 +27,5 @@ class Main {
         }
         
         System.out.println(stack.size());
-        // System.out.println("faz o l");
     }
 }
